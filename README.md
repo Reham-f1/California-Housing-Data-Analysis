@@ -2,7 +2,7 @@
 
 # California Housing Data Analysis
 
-## 📌 Objective  ِ
+## 📌 Objective  
 Determine the most suitable housing option in California by analyzing key attributes such as:
 - Median house value  
 - Population size  
